@@ -30,7 +30,6 @@ It supports complete CRUD operations, API-key authentication, request validation
 task-manager-api/
 ├── main.py            # API code (routes, DB, auth, schemas)
 ├── test.py            # Automated tests
-├── requirements.txt   # Dependencies
 ├── README.md          # Documentation
 ├── .gitignore         # Files Git should ignore
 └── tasks.db           # SQLite DB (auto-created on first run)
