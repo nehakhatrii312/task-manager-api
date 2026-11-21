@@ -27,8 +27,7 @@ task-manager-api/
 Setup & Installation
 bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd task-manager-api
+git clone https://github.com/nehakhatrii312/task-manager-api.git
 
 # 2. (Optional) create a virtual environment
 python -m venv venv
