@@ -31,6 +31,7 @@ task-manager-api/
 ├── main.py            # API code (routes, DB, auth, schemas)
 ├── test.py            # Automated tests
 ├── README.md          # Documentation
+├── requirements       #Dependencies
 ├── .gitignore         # Files Git should ignore
 └── tasks.db           # SQLite DB (auto-created on first run)
 ```
